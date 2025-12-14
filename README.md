@@ -110,7 +110,7 @@ Foodies is a **full‑stack online food ordering application** with separate **U
 ### Steps
 
 ```bash
-cd backend
+cd foodiesapi
 mvn clean install
 mvn spring-boot:run
 ```
@@ -126,7 +126,7 @@ http://localhost:8080
 ## ⚙️ Admin Panel Setup
 
 ```bash
-cd admin-panel
+cd adminpanel
 npm install
 npm run dev
 ```
@@ -142,7 +142,7 @@ http://localhost:5173
 ## ⚙️ User Frontend Setup
 
 ```bash
-cd user-frontend
+cd foodies
 npm install
 npm run dev
 ```
@@ -217,3 +217,4 @@ This project is for learning and demonstration purposes.
 ---
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
